@@ -1,8 +1,0 @@
-{
-    "roomfile": "simulation.room",
-    "roomba": {
-        "x": 4,
-        "y": 0,
-        "strategy": "random_strategy"
-    }
-}
