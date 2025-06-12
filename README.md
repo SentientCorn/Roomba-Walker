@@ -2,6 +2,9 @@
 
 A Python-based simulation of autonomous cleaning robots navigating and cleaning a room environment. The simulation features intelligent pathfinding, battery management, and collaborative behavior between multiple robots.
 
+# DISCLAIMER: 
+The pathfinding AI is far from perfect
+
 ## Features
 
 - **Multi-Robot Simulation**
